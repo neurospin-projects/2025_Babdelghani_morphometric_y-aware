@@ -12,7 +12,7 @@ global brain-shape guidance for local sulcal representation learning.
 Pipeline overview
 -----------------
 
-.. image:: figure_folder/pipeline.pdf
+.. image:: figure_folder/pipeline.png
    :alt: Global-to-local cortical sulcal representation learning pipeline
    :align: center
    :width: 100%
